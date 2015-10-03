@@ -1,3 +1,12 @@
+/*
+  This is a more advanced ES6 example, animating and
+  rendering the triangles with ThreeJS.
+  
+  To test:
+    npm install
+    npm run start
+ */
+
 import THREE from 'three'
 import createLoop from 'canvas-loop'
 import loadSvg from 'load-svg'
