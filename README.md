@@ -8,6 +8,8 @@
 
 A high-level module to convert a SVG `<path>` string into a 3D triangulated mesh. Best suited for silhouettes, like font icon SVGs.
 
+Built on top of [cdt2d](https://www.npmjs.com/package/cdt2d) by [@mikolalysenko](https://twitter.com/MikolaLysenko), and various other modules.
+
 ## Install
 
 ```sh
