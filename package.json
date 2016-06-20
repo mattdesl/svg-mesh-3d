@@ -1,6 +1,6 @@
 {
   "name": "svg-mesh-3d",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "converts a SVG path to a 3D mesh",
   "main": "index.js",
   "license": "MIT",
