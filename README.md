@@ -100,6 +100,7 @@ Options:
 - `scale` (default `1`)
   - a positive number, the scale at which to [approximate the curves](https://github.com/mattdesl/adaptive-bezier-curve) from the SVG paths
   - higher number leads to smoother corners, but slower triangulation
+- `normalize` (default `true`) a boolean, whether to normalize the positions to `-1 .. 1`
 - `randomization` (default `0`)
   - a positive number, the amount of extra points to randomly add within the bounding box before triangulation
   - higher number can lead to a nicer aesthetic, but slower triangulation

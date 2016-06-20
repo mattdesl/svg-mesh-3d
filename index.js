@@ -66,7 +66,9 @@ function svgMesh3d (svgPath, opt) {
   var cells = cdt2d(positions, edges, opt)
 
   // rescale to [-1 ... 1]
-  normalize(positions, bounds)
+  if (opt.normalize !== false) {
+    normalize(positions, bounds)
+  }
 
   // convert to 3D representation and flip on Y axis for convenience w/ OpenGL
   to3D(positions)
