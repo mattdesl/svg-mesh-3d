@@ -2,7 +2,7 @@
 
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
-  <center>[<img src="http://i.imgur.com/rY3bRps.png" width="80%" />](http://mattdesl.github.io/svg-mesh-3d/)</center>
+  <center><a href="http://mattdesl.github.io/svg-mesh-3d/"><img src="http://i.imgur.com/rY3bRps.png" width="80%" /></a></center>
 
 [(ThreeJS demo)](http://mattdesl.github.io/svg-mesh-3d/) - [(source)](./demo/index.js)
 
